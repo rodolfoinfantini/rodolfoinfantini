@@ -3,6 +3,7 @@
 
 - 🌱 I'm learning web dev: HTML CSS and JavaScript
 - 📫 Contact me: rodolfo_infantini@outlook.com
+- 🎨 [Portfolio](https://sirvorak.github.io/Portfolio)
 
 <img src="https://komarev.com/ghpvc/?username=SirVoRaK&color=green" alt="SirVoRaK"> 
 
