@@ -18,4 +18,4 @@
 <hr>
 
 ### Main project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirVoRaK&repo=JS-Chess-Stockfish-Puzzles&theme=dracula)](https://github.com/SirVoRaK/JS-Chess-Stockfish-Puzzles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirVoRaK&repo=chess&theme=dracula)](https://github.com/SirVoRaK/chess)
