@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Rodolfo Infantini Carneiro
 <hr>
 
-- 🌱 I'm learning: ❤ JavaScript ❤, TypeScript and Angular!
+- 🌱 I'm learning: ❤ JavaScript ❤, TypeScript, Angular and NodeJS!
 - 📫 Contact me: rodolfo_infantini@outlook.com
 - 🎨 [Portfolio](https://sirvorak.github.io)
 - 🙋 [Stackoverflow](https://stackoverflow.com/users/16912882/vorak-rodolfo)
