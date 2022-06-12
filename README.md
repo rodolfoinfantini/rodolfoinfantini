@@ -10,12 +10,12 @@
 
 <div>
 	<a href="https://github.com/SirVoRaK/">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SirVoRaK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirVoRaK&layout=compact&theme=dracula&langs_count=16">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SirVoRaK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirVoRaK&layout=compact&theme=dracula&langs_count=16&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB">
 	</a>
 </div>
 
 <hr>
 
 ### Main project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirVoRaK&repo=chess&theme=dracula)](https://github.com/SirVoRaK/chess)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SirVoRaK&repo=chess&theme=dracula&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/SirVoRaK/chess)
