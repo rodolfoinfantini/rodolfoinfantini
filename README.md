@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Rodolfo Infantini Carneiro
-# Jr Backend Dev (1.5 yr exp)
+## Hi there 👋 I'm Rodolfo Infantini Carneiro
+### Jr Backend Dev (1.5 yr exp)
 <hr>
 
 - 🌱 I'm learning: C#, .NET, GO and NodeJs!
