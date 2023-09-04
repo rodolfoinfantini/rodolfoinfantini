@@ -3,7 +3,7 @@
 <hr>
 
 - 🌱 I'm learning: GO
-- ⌨️  Working with: C#, .NET  Core
+- ⌨️  Working with: Java
 - 📫 Contact me: rodolfo.infantini@gmail.com
 - 🎨 [Portfolio](https://github.com/SirVoRaK?tab=repositories)
 - 🙋 [Stackoverflow](https://stackoverflow.com/users/16912882/vorak-rodolfo)
