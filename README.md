@@ -5,7 +5,7 @@
 - 🌱 I'm learning: GO
 - ⌨️  Working with: Java
 - 📫 Contact me: rodolfo.infantini@gmail.com
-- 🎨 [Portfolio](https://github.com/SirVoRaK?tab=repositories)
+- 🎨 [Portfolio](https://github.com/rodolfoinfantini?tab=repositories)
 - 🙋 [Stackoverflow](https://stackoverflow.com/users/16912882/vorak-rodolfo)
 
 <div>
