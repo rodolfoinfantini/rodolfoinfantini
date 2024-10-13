@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Rodolfo Infantini Carneiro
-### Jr Backend Dev (2 yr exp)
+### Mid lvl Backend Dev (2.5 yr exp)
 <hr>
 
 - 🌱 I'm learning: GO
